@@ -1,3 +1,4 @@
+
 # React JS Tutorial: Building Firebase Chat App (React Hooks)
 
 This source code is part of [React JS Tutorial: Building Firebase Chat App (React Hooks)](https://www.djamware.com/post/5f2a1d9d9c794f177fd7b527/react-js-tutorial-building-firebase-chat-app-react-hooks).
@@ -70,3 +71,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
